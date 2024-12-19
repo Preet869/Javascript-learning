@@ -66,5 +66,4 @@ if (score >= 90) {
     console.log("Grade: B");
 } else if(score >= 70) {
     console.log("Grade: C");
-} 
-// test
+};
